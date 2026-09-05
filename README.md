@@ -1,6 +1,8 @@
 # Sistema de Reserva de Asiento - Sala de Cine
 
+
 - **Semana:** 12
+  
 
 - **Estudiante:** Legarda Mendoza Domenica Stefany
 
